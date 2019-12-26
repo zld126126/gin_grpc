@@ -21,6 +21,6 @@ addr = "9090"
 [email]
 host = "smtp.sina.com"
 port = 465
-username = "zld126126@sina.com"
+username = "1234567890abcdef@sina.com"
 #从sina获取的密钥
 password = "1234567890abcdef"
